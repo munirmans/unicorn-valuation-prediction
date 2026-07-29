@@ -133,14 +133,14 @@ Built and compared three regression models:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/unicorn-valuation-prediction.git
-cd unicorn-valuation-prediction
+git clone https://github.com/munirmans/unicorn-ml-prediction.git
+cd unicorn-ml-prediction
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run analysis
-python unicorn_valuation_prediction.py
+python unicorn_ml_prediction.py
 ```
 
 ## Requirements
